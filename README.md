@@ -1,5 +1,5 @@
 <h1 align="center">Hi,Myself Arjun Pundir</h1>
-<h3 align="center">A pre-final year student of Computer Engineering at Thapar Institute of Engineering and Technology</h3>
+<h3 align="center">Analyst at JP Morgan Chase & Co.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arjunpundir1106&label=Profile%20views&color=0e75b6&style=flat" alt="arjunpundir1106" /> </p>
 
